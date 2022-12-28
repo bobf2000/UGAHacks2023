@@ -22,4 +22,4 @@ Education – A dataset of the number of public and private schools by State wil
 
 Final Product to be Judged
 
-Data points will be created for each category, sorted by US State. The product should be able to allow selection of one or all categories, and then weigh each category in order of importance. Based on the weigh a score will be generated for each category selected and a “Top 5 list of States with their weighed scores will be displayed.
+Data points will be created for each category, sorted by US State. The product should be able to allow selection of one or all categories, and then weigh each category in order of importance. Based on the weigh a score will be generated for each category selected and a "Top 10" list of States with their weighed scores will be displayed.
